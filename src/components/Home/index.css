@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.Home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading{
+    font-family: "Roboto";
+    font-size: 36;
+    font-weight: bold;
+    margin-top: auto;
+}
